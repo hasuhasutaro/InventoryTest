@@ -1,0 +1,6 @@
+name: InventoryTestPlugin
+version: 1.0.0
+main: noahasu.inventoryTest.Main
+api: ["2.0.0"]
+author: noahasu
+description: test
